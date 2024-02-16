@@ -1,5 +1,5 @@
-import NavBar from './components/NavBar';
-import ItemListContainer from './components/ItemListContainer';
+import NavBar from './components/NavBar.jsx';
+import ItemListContainer from './components/ItemListContainer.jsx';
 
 import 'bootstrap/dist/css/bootstrap.min.css'; // Importa los estilos de Bootstrap
 
